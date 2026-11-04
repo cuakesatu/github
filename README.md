@@ -1,2 +1,1 @@
-# google
-Subdomain takeover by felcity
+# jetbrains
